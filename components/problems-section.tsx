@@ -33,13 +33,13 @@ const problems = [
     icon: Moon,
     title: "After-Hours Losses",
     description: "Zero availability for urgent inquiries during evenings, weekends, and holidays",
-    impact: "40% of calls after hours",
+    impact: "40% of calls Missed",
   },
   {
     icon: Frown,
     title: "Customer Frustration",
     description: "Long hold times and busy signals drive potential customers to competitors",
-    impact: "25% customer churn rate",
+    impact: "45% customer lost",
   },
 ]
 

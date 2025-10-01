@@ -8,7 +8,7 @@ const solutions = [
   {
     icon: CheckCircle,
     title: "100% Call Capture",
-    description: "Never miss a customer call again - AI answers instantly, 24/7/365",
+    description: "Never miss a customer call again - AI answers instantly, 24/7(365)",
     benefit: "Capture every opportunity",
   },
   {

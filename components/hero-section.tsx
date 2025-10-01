@@ -22,7 +22,7 @@ export function HeroSection() {
           <div className="inline-flex items-center space-x-3 glass-effect rounded-full px-8 py-4 mb-8 border border-white/20 shadow-2xl">
             <Sparkles className="w-5 h-5 text-blue-400 animate-pulse" />
             <span className="text-base font-bold text-white tracking-wide">
-              Powered by GenuineStack - Leading AI Automation Solutions
+              Powered by Genuine Stack - Leading AI Automation Solutions
             </span>
             <div className="w-3 h-3 bg-green-400 rounded-full animate-pulse shadow-lg" />
           </div>

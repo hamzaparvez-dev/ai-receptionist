@@ -30,7 +30,7 @@ export function Navigation() {
             <div className="w-10 h-10 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg flex items-center justify-center shadow-lg">
               <span className="text-white font-black text-lg">AI</span>
             </div>
-            <span className="text-2xl font-black text-white tracking-tight">GenuineStack</span>
+            <span className="text-2xl font-black text-white tracking-tight">Genuine Stack</span>
           </div>
 
           <div className="hidden md:flex items-center space-x-8">
