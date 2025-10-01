@@ -27,8 +27,12 @@ export function Navigation() {
       <div className="max-w-7xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-3">
-            <div className="w-10 h-10 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg flex items-center justify-center shadow-lg">
-              <span className="text-white font-black text-lg">AI</span>
+            <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center shadow-lg p-1">
+              <img 
+                src="/lg.png" 
+                alt="GenuineStack Logo" 
+                className="w-full h-full object-contain"
+              />
             </div>
             <span className="text-2xl font-black text-white tracking-tight">Genuine Stack</span>
           </div>
