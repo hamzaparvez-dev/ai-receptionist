@@ -41,7 +41,7 @@ export function CTASection() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
               <div className="flex items-center justify-center space-x-3 bg-green-500/20 px-6 py-4 rounded-xl border border-green-400/30">
                 <CheckCircle className="h-6 w-6 text-green-400" />
-                <span className="font-bold text-white text-lg">30-day free trial</span>
+                <span className="font-bold text-white text-lg">3-day free trial</span>
               </div>
               <div className="flex items-center justify-center space-x-3 bg-blue-500/20 px-6 py-4 rounded-xl border border-blue-400/30">
                 <CheckCircle className="h-6 w-6 text-blue-400" />
